@@ -7,7 +7,7 @@ int[] Poblacion = { 185013, 197139, 439906, 190863, 530586, 414543, 229866, 2143
 Dictionary<string, int> diccionario = Departamento
           .Zip(Poblacion, (k, v) => new { Clave = k, Valor = v })
           .ToDictionary(x => x.Clave, x => x.Valor);
-
+//encontar el mayor y el menor 
 int maxDep = Poblacion.Max();
 int minDep = Poblacion.Min();
 string maxDepkey = "", minDepkey = "";
