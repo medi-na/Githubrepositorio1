@@ -58,3 +58,18 @@ C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ColecDi
 C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ref\ColecDictionary.dll
 C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.pdb
 C:\Users\Public\Repositorio Freddy 2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.genruntimeconfig.cache
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.exe
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.deps.json
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.runtimeconfig.json
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.dll
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\bin\Debug\net6.0\ColecDictionary.pdb
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.csproj.AssemblyReference.cache
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.AssemblyInfoInputs.cache
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.AssemblyInfo.cs
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.csproj.CoreCompileInputs.cache
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.dll
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\obj\Debug\net6.0\refint\ColecDictionary.dll
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.pdb
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\obj\Debug\net6.0\ColecDictionary.genruntimeconfig.cache
+C:\Users\50589\Desktop\medina\repositorio Medinaa2023\ColecDictionary\obj\Debug\net6.0\ref\ColecDictionary.dll
