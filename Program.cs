@@ -11,7 +11,7 @@ Dictionary<string, int> diccionario = Departamento
 int maxDep = Poblacion.Max();
 int minDep = Poblacion.Min();
 string maxDepkey = "", minDepkey = "";
-
+//encontrando los nombre del mayor y el menor
 for (var i = 0; i < Poblacion.Length; i++)
 {
     if (Poblacion[i] == maxDep)
