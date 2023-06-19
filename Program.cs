@@ -23,7 +23,7 @@ for (var i = 0; i < Poblacion.Length; i++)
 var ordenado = diccionario.OrderBy(x => x.Value).ToDictionary(x => x.Key, x => x.Value);
 Departamento = ordenado.Keys.ToArray();
 Poblacion = ordenado.Values.ToArray();
-
+//mostrando resultado
 for (var i = 0; i < Poblacion.Length; i++)
     Console.WriteLine($"{Departamento[i],20} ==> {Poblacion[i],10:N0}");
 
