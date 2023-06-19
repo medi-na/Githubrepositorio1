@@ -1,0 +1,20 @@
+# Archivo de proyecto de C#
+*.csproj
+# carpetas de construcción de proyecto de C#
+bin/Debug/**/*.*
+obj/ Debug/**/*.*
+obj/ Debug/**/*.*.* 
+
+bin/Debug/net6.0/ColecDictionary.dll
+bin/Debug/net6.0/ColecDictionary.pdb
+obj/Debug/net6.0/ColecDictionary.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/ColecDictionary.assets.cache
+obj/Debug/net6.0/ColecDictionary.dll
+obj/Debug/net6.0/ColecDictionary.pdb
+obj/Debug/net6.0/ref/ColecDictionary.dll
+obj/Debug/net6.0/refint/ColecDictionary.dll
+
+
+obj/Debug/net6.0/**.*
+# archivos de metadata de unity
+*.meta
