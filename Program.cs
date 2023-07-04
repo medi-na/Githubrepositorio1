@@ -1,5 +1,5 @@
 ﻿using System.Collections;
-//
+//Se actualizo el diccionario, para el departamento de managua se actualizo la población
 String[] Departamento = { "Boaco", "Carazo", "Chinandega", "Chontales", "Costa Caribe Norte", "Costa Caribe Sur", "Estelí", "Granada", "Jinotega", "León", "Madriz", "Managua", "Masaya", "Matagalpa", "Nueva Segovia", "Río San Juan", "Rivas" };
 int[] Poblacion = { 185013, 197139, 439906, 190864, 530586, 414543, 229866, 214317, 475630, 421050, 174744, 1575819, 391903, 593503, 271581, 135446, 182645 };
 Dictionary<string, int> diccionario = Departamento
